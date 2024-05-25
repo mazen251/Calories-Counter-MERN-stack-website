@@ -21,11 +21,13 @@ npm start
 ```
 
 ## UI/UX
+
 ### Create User
-![Create User Screen](Assets/Create User.png)
+![Create User Screen](Assets/Create%20User.png)
 
 ### Add Meal
-![Add Meal Screen](Assets/Add Meal.png)
+![Add Meal Screen](Assets/Add%20Meal.png)
 
 ### Main Page & Pie Chart
-![Main Page & Pie Chart Screen](Assets/Main Page & Pie Chart.png)
+![Main Page & Pie Chart Screen](Assets/Main%20Page%20&%20Pie%20Chart.png)
+
